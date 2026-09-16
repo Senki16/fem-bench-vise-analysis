@@ -1,0 +1,11 @@
+# SolidWorks temp/lock files
+~$*
+*.bak
+*.swbak
+
+# Windows / OneDrive
+Thumbs.db
+desktop.ini
+
+# Local backup archive (duplicate of repo content)
+Old.zip
