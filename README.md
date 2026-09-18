@@ -77,7 +77,7 @@ Final project for **IM0238 – Finite Element Methods**, School of Applied Scien
 
 ## Opening the model
 
-Open `01_CAD/SolidWorks/ensamble_prensa_metodos_finitos.SLDASM` in SolidWorks. Keep every part in the same folder so the assembly and the drawing (`Plano.SLDDRW`) find their references. The part files keep their original Spanish names for that reason.
+Open `01_CAD/SolidWorks/ensamble_prensa_metodos_finitos.SLDASM` in SolidWorks. Keep every part in the same folder so the assembly and the drawing (`Plano.SLDDRW`) find their references. 
 
 ![General dimensions (mm)](04_Images/general_dimensions.png)
 
